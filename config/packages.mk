@@ -1,3 +1,8 @@
+# Navbar
+PRODUCT_PACKAGES += \
+    NavigationBarNoHintOverlay
+
+
 # VoltageOS packages
 PRODUCT_PACKAGES += \
     Covers \
